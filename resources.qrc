@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SpatialDistributionPattern" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
